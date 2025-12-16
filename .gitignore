@@ -41,4 +41,8 @@ Thumbs.db
 # Model files (large)
 best_*.pth
 final_*.pth
+training_output/
+training_data/
+training_data/*
+
 
